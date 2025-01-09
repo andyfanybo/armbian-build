@@ -17,7 +17,7 @@ on:
           - tb-ls3399
           - xiaobao-nas
           - zysj
-          -oec-box-wxy4
+          - oec-box-wxy4
       BRANCH:  
         description: 'Armbian branch'  
         default: 'current'  
